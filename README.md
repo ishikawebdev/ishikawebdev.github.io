@@ -20,7 +20,7 @@
 				<li><a href="frisbee assignment/teams.html"> CSS </li>
 			</ul>
 			</li>
-		<li><a href="html/socialmedia.html"> Contact me! </a></li>
+		<li><a href="html/socialmedia.html"> Contact me </a></li>
 	</ul>
 </nav>
 </p>
